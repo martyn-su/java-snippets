@@ -1,4 +1,3 @@
-
 // A snippet that demonstrates using an integer array as a return type of a method and a parameter to a method
 import java.util.Arrays;
 
