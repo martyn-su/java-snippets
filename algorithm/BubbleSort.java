@@ -18,7 +18,7 @@ public class BubbleSort {
     }
 
     public static void main(String args[]) {
-        int[] arr = { 10, 7, 99, 2, 33, 55, 7, 1, 2, 222, 232 };
+        int[] arr = { 10, 7, 99, 54,6526,992,88,91, 2, 33, 55, 7, 1, 2, 222, 232 };
         int len = arr.length;
         bubble_Sort(arr, len);
 
