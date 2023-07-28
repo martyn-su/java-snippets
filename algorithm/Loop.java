@@ -13,5 +13,6 @@ public class Loop {
         for (int i = 0; i < arrName; i++) {
             System.out.println(arrNames[i]);
         }
+        System.out.println("hey");
     }
 }
